@@ -8,6 +8,17 @@ class LandingPage extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <div className="banner-text">
+              <h2>Hi ! My name is Natallia Stelmakh!</h2>
+              <p>My inspiration - science and creativity.</p>
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
               <h1>Full Stack Web Developer</h1>
               <hr></hr>
 

@@ -28,7 +28,7 @@ background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, F
   margin: auto;
   border-radius:20px ;
 }
-.banner-text h1{
+.banner-text h1,h2{
   font-size: 50px;
  
   /* font-weight: bold; */
