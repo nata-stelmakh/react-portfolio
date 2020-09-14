@@ -1,0 +1,128 @@
+ /* Style attributes aligned in specificity order */
+ 
+
+   body {
+    height: 100%;
+    background-color: black;
+    color:white;
+    margin: auto;
+    scroll-padding-top: 15px;
+    scroll-padding-bottom: 15px;
+  }
+ footer{
+    background-color:rgb(199, 199, 199);
+    text-align: center;
+    
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}
+
+  .h1{
+    position: fixed;
+    top: 0;
+    width: 100%
+    
+     
+  }
+ hr{
+    border-top:1px solid white;
+    
+  }
+  .display-4{
+    background: black;
+  }
+  h1{
+    background-color:rgb(199, 199, 199) ;
+    text-align: left;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: xxx-large;
+  }
+
+
+  h2{
+      color:rgb(199, 199, 199);
+      padding:15px ;
+      margin: auto;
+  }
+  img{
+     width: 15%px;
+     height: 15%px;
+  }
+  
+  article{
+      margin: auto;
+      padding-bottom: 30px;
+      font-size: 1.2em;
+  }
+  
+ a{
+  
+    color: white;
+    font-size:1.5em;
+  }
+ 
+  
+   
+  
+  figure{
+    background-color: #fffafa;
+    margin: 1%;
+    padding:1%;
+    border:2px rgb(195, 195, 195) solid;
+  }
+
+  
+  .figcaption{
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: normal;
+    color:black;
+  }
+  .link{
+    font-size: 0.8em;
+    text-align: center;
+    font-weight:small;
+    color:black;
+
+  }
+    .jumbotron{
+      background-color: black;
+      color: white;
+      padding: 4%;
+      margin-right:10%;
+      margin-top:10%;
+      margin-top:10%
+    }
+
+ .lead{
+   font-size: 1.5em;
+ }
+ /* .button{
+   color: black;
+   position: absolute;
+   top: 60%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   
+ } */
+   .card img{
+     
+     height: 20rem;
+     border-radius: 45%;
+   }
+  
+  
+  #mainContainer{
+    @media (max-width: 767.98px);
+    padding: 3%;
+    
+
+  }
+  
+     
+  
+  
+  
+ 
+  

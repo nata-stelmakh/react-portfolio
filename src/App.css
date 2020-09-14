@@ -1,38 +1,96 @@
-.App {
-  text-align: center;
+.header-color{
+background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.landing-grid{
+  text-align:center;
+  position: fixed;
+  top: 0;
+  left:0;
+  width:100%;
+  height: 100%;
+}
+.body-color{
+  background-image: url("./background/11.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.banner-text{
+  background-color: black;
   color: white;
+  opacity: .8;
+  width:75%;
+  padding-top: 15em;
+  margin: auto;
+  border-radius:20px ;
 }
-
-.App-link {
-  color: #61dafb;
+.banner-text h1{
+  font-size: 50px;
+ 
+  /* font-weight: bold; */
+  color:white;
+  background-color: black;
+  border-radius:20px ;
+  width: 100%;
+  text-align: center;
+  margin: auto;
 }
+.banner-text hr{
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  border-top: 1px solid white;
+  width: 60%;
+  margin:auto ;
+}
+.banner-text p{
+  color: white;
+  font-size: 25px;
+  margin: auto;
+  padding:1em;
+  width: 100%;
+  text-align: center;
+  
+
+}
+.social-links{
+  display:flex;
+  
+  /* justify-content: space-evenly; */
+  width: 10%;
+  text-align: center;
+  margin: auto;
+  
+}
+.social-links i{
+ 
+  margin: auto;
+  font-size:3em;
+  color: white;
+  padding: 10px;
+}
+figure{
+  background-color: #fffafa;
+  margin: 1%;
+  padding:1%;
+  border:2px rgb(195, 195, 195) solid;
+}
+.figcaption{
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: normal;
+  color:black;
+}
+.link{
+  font-size: 0.8em;
+  text-align: center;
+  font-weight:small;
+  color:black;
+
+}
+img{
+  width: 15%px;
+  height: 15%px;
 }
