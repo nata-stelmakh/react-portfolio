@@ -9,7 +9,6 @@ class LandingPage extends Component {
           <Cell col={12}>
             <div className="banner-text">
               <h2>Hi ! My name is Natallia Stelmakh!</h2>
-
               <br />
               <br />
               <br />
