@@ -9,7 +9,7 @@ class LandingPage extends Component {
           <Cell col={12}>
             <div className="banner-text">
               <h2>Hi ! My name is Natallia Stelmakh!</h2>
-              <p>My inspiration - science and creativity.</p>
+
               <br />
               <br />
               <br />
@@ -36,7 +36,7 @@ class LandingPage extends Component {
                 </a>
 
                 <a
-                  href="https://www.linkedin.com/in/natallia-stelmakh-29b6001a6/"
+                  href="https://www.linkedin.com/in/natallia-stelmakh/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
