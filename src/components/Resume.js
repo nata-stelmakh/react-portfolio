@@ -7,7 +7,7 @@ class Resume extends Component {
         <div>
           <figure className="figure">
             <img
-              src="assets/Resume.png"
+              src="public/assets/Resume.png"
               className="card-img-top figure-img img-fluid rounded"
               alt="organizer"
               width="503"
