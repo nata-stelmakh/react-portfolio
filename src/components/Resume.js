@@ -14,8 +14,8 @@ class Resume extends Component {
               height="290"
             ></img>
 
-            <a href="https://drive.google.com/file/d/1q2R5tTTj6SlIVni6nhYhivrap3GOedZ-/view?usp=sharing">
-              <p className="figcaption">RESUME</p>
+            <a href="https://drive.google.com/file/d/1Uvkst4PEBES9FFv8gWFDZBLzElUhI_Nh/view?usp=sharing">
+              <p className="figcaption">Download</p>
             </a>
           </figure>
         </div>
