@@ -8,11 +8,11 @@ class Contact extends Component {
           <h2>Contact Me</h2>
 
           <p>
-            <a href="mailto:stelmakh.natallia@gmail.com">
+            <a id="email" href="mailto:stelmakh.natallia@gmail.com">
               Email: stelmakh.natallia@gmail.com
             </a>
           </p>
-          <p>Phone :+1-973-7506535</p>
+          <p id="phone">Phone :+1-973-7506535</p>
         </div>
       </div>
     );

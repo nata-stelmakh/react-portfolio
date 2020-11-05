@@ -23,13 +23,14 @@ class App extends Component {
               className="header-color"
               title={
                 <span>
-                  <strong>Portfolio</strong>
+                  <strong>Natallia Stelmakh</strong>
                 </span>
               }
             ></Header>
             <Drawer>
               <Navigation>
                 <Link to="/">Welcome</Link>
+                <Link to="/about">About Me</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
