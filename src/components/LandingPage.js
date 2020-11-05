@@ -16,8 +16,6 @@ class LandingPage extends Component {
               <br />
               <br />
               <br />
-              <br />
-              <br />
               <h1>Full Stack Web Developer</h1>
               <hr></hr>
 
@@ -25,6 +23,21 @@ class LandingPage extends Component {
                 HTML | CSS | Bootstrap | JavaScript | NodeJS | SQL | MongoDB |
                 Express | React
               </p>
+              <div className="icons">
+                <i class="fab fa-html5"></i>
+                <i class="fab fa-css3"></i>
+                <i class="fab fa-bootstrap"></i>
+                <i class="fab fa-js-square"></i>
+                <i class="fab fa-node-js"></i>
+                <i class="fab fa-react"></i>
+              </div>
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+
               <div className="social-links">
                 <a
                   href="https://github.com/nata-stelmakh"
