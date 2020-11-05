@@ -8,11 +8,7 @@ class Resume extends Component {
           <div class="demo-card-image mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title mdl-card--expand"></div>
             <div class="mdl-card__actions">
-              <span class="demo-card-image__filename">
-                <a href="https://docs.google.com/document/d/1DzwmrQ0G1EpsKRMEtz3tveR-pwi1IDykfRiGPPRrMiw/edit?usp=sharing">
-                  Download
-                </a>
-              </span>
+              <span class="demo-card-image__filename">Resume</span>
             </div>
           </div>
           {/* <figure className="figure">

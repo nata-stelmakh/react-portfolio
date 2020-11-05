@@ -30,8 +30,8 @@ class App extends Component {
             <Drawer>
               <Navigation>
                 <Link to="/">Welcome</Link>
-                <Link to="/about">About Me</Link>
-                <Link to="/resume">Resume</Link>
+                {/* <Link to="/about">About Me</Link> */}
+                {/* <Link to="/resume">Resume</Link> */}
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
               </Navigation>
