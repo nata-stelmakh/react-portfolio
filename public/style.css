@@ -123,13 +123,19 @@
   
      
   
+  #email{
+    font-size: x-large;
+    color: white;
+  }
   #phone{
     font-size: x-large;
-  }
-  #email{
     color: white;
-    font-size: x-large;
   }
+  #address{
+    font-size: x-large;
+    color: white;
+  }
+  
  
   .demo-card-image.mdl-card {
     width: 256px;

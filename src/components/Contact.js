@@ -8,19 +8,23 @@ class Contact extends Component {
         <div className="container" id="mainContainer">
           <Grid className="landing-grid">
             <Cell col={12}>
-              <h2>Contact Me</h2>
+              <div className="banner-text">
+                <h2>Contact Me</h2>
 
-              <p>
-                <Button>
-                  {" "}
-                  <a id="email" href="mailto:stelmakh.natallia@gmail.com">
-                    Email: stelmakh.natallia@gmail.com
-                  </a>
-                </Button>
-              </p>
-              <p id="phone">
-                <Button>Phone :+1-973-7506535</Button>
-              </p>
+                <p>
+                  <Button>
+                    <a id="email" href="mailto:stelmakh.natallia@gmail.com">
+                      Email: stelmakh.natallia@gmail.com
+                    </a>
+                  </Button>
+                </p>
+                <p>
+                  <Button id="phone">Phone : +1-973-7506535</Button>
+                </p>
+                <p>
+                  <Button id="address">Address : Wanaque,NJ, 07465</Button>
+                </p>
+              </div>
             </Cell>
           </Grid>
         </div>
